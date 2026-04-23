@@ -1,4 +1,4 @@
-Model Name,Dataset Size,Translation X, Translation Y,Rotation,Scale,Shear X, Shear Y,Top-1 Accuracy,Top-5 Accuracy,Time
+Model Name,Dataset Size,Translation X,Translation Y,Rotation,Scale,Shear X,Shear Y,Top-1 Accuracy,Top-5 Accuracy,Time
 vit_base,5000,0,0,0.0,1.0,0,0,0.8162,0.9530,33.03
 vit_base,5000,25,0,0.0,1.0,0,0,0.8110,0.9566,18.18
 vit_base,5000,0,25,0.0,1.0,0,0,0.8038,0.9506,18.37
